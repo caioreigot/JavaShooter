@@ -4,4 +4,4 @@
 </div>
 
 # Java Shooter
- Simple game developed using Java
+ Simple game developed with Java
