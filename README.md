@@ -4,4 +4,4 @@
 </div>
 
 # Java Shooter
- Simple game developed during the game development course of Danki Code
+ Simple game developed using Java
